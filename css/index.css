@@ -22,3 +22,16 @@ p {
     box-sizing: border-box;
     font-family: ;
 }
+span {
+    color: red;
+}
+h3 {
+    color: yellow;
+    background-color: black;
+}
+h4 {
+    color: turquoise;
+}
+span {
+    color: red;
+}
