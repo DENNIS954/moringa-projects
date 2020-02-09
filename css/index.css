@@ -1,5 +1,5 @@
 body {
-    background: yellow;
+    background: green;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -41,4 +41,8 @@ h4 {
 span {
     color: red;
 }
-button
+button {
+    color: blue;
+    background-color: orange;
+    font-size: 20px;
+}
